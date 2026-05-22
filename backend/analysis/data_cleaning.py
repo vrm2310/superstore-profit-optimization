@@ -23,7 +23,7 @@ df = df.drop_duplicates()
 df["Order Date"] = pd.to_datetime(df["Order Date"])
 
 # Create profit margin column
-df["Profit Margin"] = (df["Profit"] / df["Sales"]) * 100
+df["Profit Margin"] = (df["Profit"] / df["Sales"])
 
 # Save cleaned dataset
 df.to_csv("../data/superstore_cleaned.csv", index=False)
