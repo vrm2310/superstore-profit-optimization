@@ -216,15 +216,6 @@ python backend/analysis/data_cleaning.py
 
 ---
 
-# Resume Highlights
-
-- Built a multi-page Power BI dashboard analyzing sales, profit, discounts, and regional performance using Superstore dataset.
-- Performed data cleaning and feature engineering using Python and Pandas.
-- Identified loss-making sub-categories and analyzed discount impact on profitability.
-- Created executive-level KPI dashboards and business insights for decision-making.
-
----
-
 # Author
 
 Vyom Mangtani
